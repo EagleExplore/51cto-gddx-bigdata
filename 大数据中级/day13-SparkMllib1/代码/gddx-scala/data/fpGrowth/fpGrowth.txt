@@ -1,0 +1,7 @@
+apple pear banana
+pear milk tomato
+apple banana dog
+dog tomato
+tomato milk beer
+beer pear dog
+apple pear dog
